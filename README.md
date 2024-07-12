@@ -1,4 +1,4 @@
-# VQC Audio Analysis
+# Simple Audio Analysis
 
 ## Process TIMIT speech (audio) data
 We convert the wave form (.wav) files to [**spectrograms**](https://en.wikipedia.org/wiki/Spectrogram) via [Short-Time Fourier Transform](https://en.wikipedia.org/wiki/Short-time_Fourier_transform)
